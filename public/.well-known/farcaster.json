@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "KnowYourRights Now",
+    "subtitle": "Built with Zara",
+    "description": "KnowYourRights Now is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://495ba1888b5249a78600ab17791f56a6-ivww.vercel.app",
+    "splashImageUrl": "https://495ba1888b5249a78600ab17791f56a6-ivww.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://495ba1888b5249a78600ab17791f56a6-ivww.vercel.app/image.png",
+    "tagline": "KnowYourRights Now",
+    "screenshotUrls": [
+      "https://495ba1888b5249a78600ab17791f56a6-ivww.vercel.app/screenshot.png",
+      "https://495ba1888b5249a78600ab17791f56a6-ivww.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://495ba1888b5249a78600ab17791f56a6-ivww.vercel.app/api/webhook"
+  }
+}

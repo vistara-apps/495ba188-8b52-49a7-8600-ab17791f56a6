@@ -1,0 +1,14 @@
+{
+  "name": "KnowYourRights Now",
+  "description": "KnowYourRights Now is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://495ba188-8b52-49a7-8600-ab17791f56a6.vercel.app",
+  "properties": {
+    "app": {
+      "name": "KnowYourRights Now",
+      "description": "KnowYourRights Now is a Base Mini App built with Zara.",
+      "url": "https://495ba188-8b52-49a7-8600-ab17791f56a6.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
